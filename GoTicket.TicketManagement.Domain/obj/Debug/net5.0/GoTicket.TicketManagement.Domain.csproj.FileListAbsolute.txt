@@ -1,0 +1,12 @@
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Domain\bin\Debug\net5.0\GoTicket.TicketManagement.Domain.deps.json
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Domain\bin\Debug\net5.0\GoTicket.TicketManagement.Domain.dll
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Domain\bin\Debug\net5.0\ref\GoTicket.TicketManagement.Domain.dll
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Domain\bin\Debug\net5.0\GoTicket.TicketManagement.Domain.pdb
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Domain\obj\Debug\net5.0\GoTicket.TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Domain\obj\Debug\net5.0\GoTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Domain\obj\Debug\net5.0\GoTicket.TicketManagement.Domain.AssemblyInfo.cs
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Domain\obj\Debug\net5.0\GoTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Domain\obj\Debug\net5.0\GoTicket.TicketManagement.Domain.dll
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Domain\obj\Debug\net5.0\ref\GoTicket.TicketManagement.Domain.dll
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Domain\obj\Debug\net5.0\GoTicket.TicketManagement.Domain.pdb
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Domain\obj\Debug\net5.0\GoTicket.TicketManagement.Domain.csprojAssemblyReference.cache

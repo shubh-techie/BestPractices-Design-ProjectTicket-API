@@ -1,0 +1,15 @@
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\bin\Debug\net5.0\GoTicket.TicketManagement.Domain.dll
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\obj\Debug\net5.0\GoTicket.TicketManagement.Application.csprojAssemblyReference.cache
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\obj\Debug\net5.0\GoTicket.TicketManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\obj\Debug\net5.0\GoTicket.TicketManagement.Application.AssemblyInfoInputs.cache
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\obj\Debug\net5.0\GoTicket.TicketManagement.Application.AssemblyInfo.cs
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\obj\Debug\net5.0\GoTicket.TicketManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\bin\Debug\net5.0\GoTicket.TicketManagement.Application.deps.json
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\bin\Debug\net5.0\GoTicket.TicketManagement.Application.dll
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\bin\Debug\net5.0\ref\GoTicket.TicketManagement.Application.dll
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\bin\Debug\net5.0\GoTicket.TicketManagement.Application.pdb
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\bin\Debug\net5.0\GoTicket.TicketManagement.Domain.pdb
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\obj\Debug\net5.0\GoTicket.TicketManagement.Application.csproj.CopyComplete
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\obj\Debug\net5.0\GoTicket.TicketManagement.Application.dll
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\obj\Debug\net5.0\ref\GoTicket.TicketManagement.Application.dll
+C:\Users\shubh\source\repos\GoTicket.TicketManagement\GoTicket.TicketManagement.Application\obj\Debug\net5.0\GoTicket.TicketManagement.Application.pdb
